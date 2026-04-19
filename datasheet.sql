@@ -1,5 +1,5 @@
 -- ================================================================
--- datasheet_bot.sql - Datasheet Lengkap Bot Bahasa Indonesia
+-- datasheet.sql - Datasheet Lengkap Bot Bahasa Indonesia
 -- Berbasis Aturan (Rule-Based)
 -- Teknologi: SQLite3 | 39 Tabel | April 2026
 -- ================================================================
