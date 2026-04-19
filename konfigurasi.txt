@@ -1,0 +1,16 @@
+# ================================================================
+# konfigurasi.txt - Pengaturan Bot Bahasa Indonesia
+# Format: kunci=nilai (tanpa spasi di sekitar tanda =)
+# Baris kosong dan komentar (diawali # atau ;) diabaikan.
+# ================================================================
+
+# berkas database SQLite3
+database=bot.db
+
+# berkas log kinerja (kosongkan untuk menonaktifkan log)
+# aktifkan dengan: ./bot -l bot.log
+# atau atur log_level=1 di bawah ini
+log=bot.log
+
+# level log: 0=mati, 1=aktif (catat intent, durasi, dll)
+log_level=0
